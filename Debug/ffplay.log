@@ -1,0 +1,382 @@
+﻿  cmdutils.c
+C:\work\code\ffplay\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\work\code\ffplay\cmdutils.c(122,23): warning C4133: “函数”: 从“char [1]”到“LPCWSTR”的类型不兼容
+C:\work\code\ffplay\cmdutils.c(207,28): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(323,81): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\work\code\ffplay\cmdutils.c(325,88): warning C4305: “函数”: 从“__int64”到“double”截断
+C:\work\code\ffplay\cmdutils.c(325,89): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+C:\work\code\ffplay\cmdutils.c(329,86): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\work\code\ffplay\cmdutils.c(515,1): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1191): message : 参见“getenv”的声明
+C:\work\code\ffplay\cmdutils.c(566,26): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(569,27): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(573,26): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(581,39): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(608,44): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(988,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : 参见“localtime”的声明
+C:\work\code\ffplay\cmdutils.c(1033,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\work\code\ffplay\cmdutils.c(1037,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\work\code\ffplay\cmdutils.c(1091,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\work\code\ffplay\cmdutils.c(1138,1): warning C4996: 'avresample_version': 被声明为已否决
+C:\work\code\ffplay\include\libavresample\avresample.h(148): message : 参见“avresample_version”的声明
+C:\work\code\ffplay\cmdutils.c(1167,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : 参见“strncpy”的声明
+C:\work\code\ffplay\cmdutils.c(1173,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : 参见“strncpy”的声明
+C:\work\code\ffplay\cmdutils.c(1176,1): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message : 参见“strtok”的声明
+C:\work\code\ffplay\cmdutils.c(1180,1): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message : 参见“strtok”的声明
+C:\work\code\ffplay\cmdutils.c(1533,17): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(1603,19): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(1643,19): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(2052,1): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1191): message : 参见“getenv”的声明
+C:\work\code\ffplay\cmdutils.c(2053,1): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1191): message : 参见“getenv”的声明
+C:\work\code\ffplay\cmdutils.c(2058,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\work\code\ffplay\cmdutils.c(2072,1): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(266): message : 参见“strncat”的声明
+C:\work\code\ffplay\cmdutils.c(2082,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\work\code\ffplay\cmdutils.c(2088,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\work\code\ffplay\cmdutils.c(2144,28): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(2147,44): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(2151,33): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\cmdutils.c(2175,19): warning C4018: “<”: 有符号/无符号不匹配
+  ffplay.c
+C:\work\code\ffplay\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\work\code\ffplay\ffplay.c(413,5): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\ffplay.c(898,28): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(899,28): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(1012,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\work\code\ffplay\ffplay.c(1101,63): warning C4244: “-=”: 从“int64_t”转换到“int”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(1188,69): warning C4244: “=”: 从“double”转换到“FFTSample”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(1202,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(1203,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(1224,42): warning C4018: “>=”: 有符号/无符号不匹配
+C:\work\code\ffplay\ffplay.c(1324,28): warning C4090: “函数”: 不同的“const”限定符
+C:\work\code\ffplay\ffplay.c(1675,47): warning C4018: “<”: 有符号/无符号不匹配
+C:\work\code\ffplay\ffplay.c(1856,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\work\code\ffplay\ffplay.c(1879,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\work\code\ffplay\ffplay.c(2477,33): warning C4018: “>=”: 有符号/无符号不匹配
+C:\work\code\ffplay\ffplay.c(2599,42): warning C4018: “>=”: 有符号/无符号不匹配
+C:\work\code\ffplay\ffplay.c(2873,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\work\code\ffplay\ffplay.c(3251,60): warning C4244: “函数”: 从“int64_t”转换到“unsigned int”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3268,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\work\code\ffplay\ffplay.c(3278,11): warning C4018: “>=”: 有符号/无符号不匹配
+C:\work\code\ffplay\ffplay.c(3261,1): warning C4244: “初始化”: 从“double”转换到“int64_t”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3383,75): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3385,75): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3387,64): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3393,52): warning C4244: “函数”: 从“double”转换到“int64_t”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3393,58): warning C4244: “函数”: 从“double”转换到“int64_t”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3440,69): warning C4244: “函数”: 从“double”转换到“int64_t”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3445,64): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3450,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3457,57): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3494,72): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3500,73): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\work\code\ffplay\ffplay.c(3602,1): warning C4090: “初始化”: 不同的“const”限定符
+C:\work\code\ffplay\ffplay.c(3603,1): warning C4090: “初始化”: 不同的“const”限定符
+C:\work\code\ffplay\ffplay.c(3604,1): warning C4090: “初始化”: 不同的“const”限定符
+C:\work\code\ffplay\ffplay.c(3627,1): warning C4090: “初始化”: 不同的“const”限定符
+C:\work\code\ffplay\ffplay.c(3639,1): warning C4090: “初始化”: 不同的“const”限定符
+C:\work\code\ffplay\ffplay.c(3640,1): warning C4090: “初始化”: 不同的“const”限定符
+C:\work\code\ffplay\ffplay.c(3641,1): warning C4090: “初始化”: 不同的“const”限定符
+  正在生成代码...
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avutil_version，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avutil_configuration，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_get_media_type_string，该符号在函数 _show_help_filter 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_get_media_type_string
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_strerror，该符号在函数 _av_make_error_string 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_mallocz，该符号在函数 _prepare_app_arguments 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_mallocz
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_mallocz_array，该符号在函数 _init_parse_context 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_calloc，该符号在函数 _get_codecs_sorted 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_realloc_array，该符号在函数 _grow_array 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_free，该符号在函数 _init_report 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_free
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_freep，该符号在函数 _show_help 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_freep
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_strdup，该符号在函数 _show_help 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_strdup
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_max_alloc，该符号在函数 _opt_max_alloc 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_log，该符号在函数 _check_options 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_log
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_log_get_level，该符号在函数 _init_report 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_log_get_level
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_log_set_level，该符号在函数 _opt_default 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_log_set_callback，该符号在函数 _init_report 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_log_set_callback
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_log_default_callback，该符号在函数 _log_callback_report 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_log_format_line，该符号在函数 _log_callback_report 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_log_set_flags，该符号在函数 _opt_loglevel 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_log_set_flags
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_log_get_flags，该符号在函数 _opt_loglevel 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_get_sample_fmt_name，该符号在函数 _print_codec 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_get_sample_fmt_name
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_get_sample_fmt_string，该符号在函数 _show_sample_fmts 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_get_cpu_flags，该符号在函数 _opt_cpuflags 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_force_cpu_flags，该符号在函数 _opt_cpuflags 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_parse_cpu_caps，该符号在函数 _opt_cpuflags 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_get_channel_layout_string，该符号在函数 _print_codec 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_get_channel_layout_string
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_get_channel_name，该符号在函数 _show_layouts 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_get_channel_description，该符号在函数 _show_layouts 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_get_standard_channel_layout，该符号在函数 _show_layouts 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_dict_get，该符号在函数 _filter_codec_opts 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_dict_get
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_dict_set，该符号在函数 _filter_codec_opts 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_dict_set
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_dict_parse_string，该符号在函数 _show_sinks_sources_parse_arg 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_dict_free，该符号在函数 _show_sinks 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_dict_free
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_hwdevice_get_type_name，该符号在函数 _print_codec 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_bsf_get_by_name，该符号在函数 _show_help_bsf 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_bsf_iterate，该符号在函数 _show_bsfs 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_codec_iterate，该符号在函数 _next_codec_for_id 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avcodec_find_decoder，该符号在函数 _filter_codec_opts 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _avcodec_find_decoder
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avcodec_find_decoder_by_name，该符号在函数 _show_help_codec 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _avcodec_find_decoder_by_name
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avcodec_find_encoder，该符号在函数 _filter_codec_opts 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avcodec_find_encoder_by_name，该符号在函数 _show_help_codec 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_codec_is_encoder，该符号在函数 _next_codec_for_id 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_codec_is_decoder，该符号在函数 _next_codec_for_id 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avcodec_get_hw_config，该符号在函数 _print_codec 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avcodec_descriptor_get，该符号在函数 _show_help_bsf 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avcodec_descriptor_next，该符号在函数 _get_codecs_sorted 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avcodec_descriptor_get_by_name，该符号在函数 _show_help_codec 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avcodec_version，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avcodec_configuration，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avcodec_get_class，该符号在函数 _filter_codec_opts 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _avcodec_get_class
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avio_enum_protocols，该符号在函数 _show_protocols 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avio_protocol_get_class，该符号在函数 _show_help_protocol 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avformat_version，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avformat_configuration，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_muxer_iterate，该符号在函数 _show_formats_devices 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_demuxer_iterate，该符号在函数 _show_formats_devices 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avformat_get_class，该符号在函数 _opt_default 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _avformat_get_class
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_stream_get_side_data，该符号在函数 _get_rotation 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_find_input_format，该符号在函数 _show_help_demuxer 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_find_input_format
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_guess_format，该符号在函数 _show_help_muxer 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avformat_match_stream_specifier，该符号在函数 _check_stream_specifier 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _avformat_match_stream_specifier
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avfilter_version，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avfilter_configuration，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avfilter_pad_count，该符号在函数 _show_help_filter 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avfilter_pad_get_name，该符号在函数 _show_filters 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avfilter_pad_get_type，该符号在函数 _show_filters 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_filter_iterate，该符号在函数 _show_filters 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avfilter_get_by_name，该符号在函数 _show_help_filter 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _avfilter_get_by_name
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_opt_show2，该符号在函数 _show_help_children 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_opt_get_key_value，该符号在函数 _init_report 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_opt_find，该符号在函数 _filter_codec_opts 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_opt_child_class_next，该符号在函数 _show_help_children 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_opt_set，该符号在函数 _opt_default 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_opt_set
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avdevice_version，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avdevice_configuration，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_input_audio_device_next，该符号在函数 _show_sources 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_input_video_device_next，该符号在函数 _show_sources 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_output_audio_device_next，该符号在函数 _show_sinks 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_output_video_device_next，该符号在函数 _show_sinks 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avdevice_free_list_devices，该符号在函数 _print_device_sinks 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avdevice_list_input_sources，该符号在函数 _print_device_sources 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avdevice_list_output_sinks，该符号在函数 _print_device_sinks 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avresample_version，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _avresample_configuration，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _swscale_version，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _swscale_configuration，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _sws_isSupportedInput，该符号在函数 _show_pix_fmts 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _sws_isSupportedOutput，该符号在函数 _show_pix_fmts 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _sws_alloc_context，该符号在函数 _opt_default 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _sws_freeContext，该符号在函数 _opt_default 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _sws_freeContext
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _sws_get_class，该符号在函数 _opt_default 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _swr_get_class，该符号在函数 _opt_default 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _swr_alloc，该符号在函数 _opt_default 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _swr_free，该符号在函数 _opt_default 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _swr_free
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _swresample_version，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _swresample_configuration，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _postproc_version，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _postproc_configuration，该符号在函数 _print_all_libs_info 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_strlcpy，该符号在函数 _get_preset_file 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_strlcat，该符号在函数 _show_help_options 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_match_name，该符号在函数 _show_sinks 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_bprint_init，该符号在函数 _init_report 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_bprint_init
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_bprintf，该符号在函数 _expand_filename_template 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_bprintf
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_bprint_chars，该符号在函数 _expand_filename_template 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_bprint_finalize，该符号在函数 _init_report 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_bprint_finalize
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_display_rotation_get，该符号在函数 _get_rotation 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_get_bits_per_pixel，该符号在函数 _show_pix_fmts 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_pix_fmt_desc_next，该符号在函数 _show_pix_fmts 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_pix_fmt_desc_get_id，该符号在函数 _show_pix_fmts 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_get_pix_fmt_name，该符号在函数 _print_codec 中被引用
+ffplay.obj : error LNK2001: 无法解析的外部符号 _av_get_pix_fmt_name
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_get_known_color_name，该符号在函数 _show_colors 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_parse_time，该符号在函数 _parse_time_or_die 中被引用
+cmdutils.obj : error LNK2019: 无法解析的外部符号 _av_strtod，该符号在函数 _parse_number_or_die 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_strlcatf，该符号在函数 _configure_audio_filters 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_asprintf，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_log2，该符号在函数 _audio_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_malloc，该符号在函数 _packet_queue_put_private 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_malloc_array，该符号在函数 _video_audio_display 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_fast_malloc，该符号在函数 _audio_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_mul_q，该符号在函数 _calculate_display_rect 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_rescale，该符号在函数 _calculate_display_rect 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_rescale_q，该符号在函数 _decoder_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_compare_ts，该符号在函数 _seek_chapter 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_int_list_length_for_size，该符号在函数 _configure_audio_filters 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_dict_set_int，该符号在函数 _stream_component_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_get_packed_sample_fmt，该符号在函数 _cmp_audio_fmts 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_get_bytes_per_sample，该符号在函数 _audio_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_samples_get_buffer_size，该符号在函数 _audio_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_gettime_relative，该符号在函数 _audio_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_usleep，该符号在函数 _audio_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_get_channel_layout_nb_channels，该符号在函数 _audio_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_get_default_channel_layout，该符号在函数 _audio_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_frame_alloc，该符号在函数 _audio_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_frame_free，该符号在函数 _audio_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_frame_unref，该符号在函数 _frame_queue_unref_item 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_frame_move_ref，该符号在函数 _audio_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avcodec_get_name，该符号在函数 _stream_component_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_init_packet，该符号在函数 _main 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_packet_ref，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_packet_unref，该符号在函数 _decoder_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_packet_move_ref，该符号在函数 _decoder_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avcodec_alloc_context3，该符号在函数 _stream_component_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avcodec_free_context，该符号在函数 _decoder_destroy 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avcodec_parameters_to_context，该符号在函数 _stream_component_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avcodec_open2，该符号在函数 _stream_component_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avsubtitle_free，该符号在函数 _frame_queue_unref_item 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avcodec_decode_subtitle2，该符号在函数 _decoder_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avcodec_send_packet，该符号在函数 _decoder_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avcodec_receive_frame，该符号在函数 _decoder_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avcodec_flush_buffers，该符号在函数 _decoder_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avio_seek，该符号在函数 _avio_tell 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avio_size，该符号在函数 _event_loop 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avio_feof，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_format_inject_global_side_data，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avformat_network_init，该符号在函数 _main 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avformat_network_deinit，该符号在函数 _do_exit 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avformat_alloc_context，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avformat_open_input，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avformat_find_stream_info，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_find_program_from_stream，该符号在函数 _stream_cycle_channel 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_find_best_stream，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_read_frame，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avformat_seek_file，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_read_play，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_read_pause，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avformat_close_input，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_dump_format，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_guess_sample_aspect_ratio，该符号在函数 _get_video_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_guess_frame_rate，该符号在函数 _configure_video_filters 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_opt_set_int，该符号在函数 _configure_audio_filters 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_opt_set_bin，该符号在函数 _configure_audio_filters 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avdevice_register_all，该符号在函数 _main 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _sws_scale，该符号在函数 _upload_texture 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _sws_getCachedContext，该符号在函数 _upload_texture 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_rdft_init，该符号在函数 _video_audio_display 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_rdft_calc，该符号在函数 _video_audio_display 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_rdft_end，该符号在函数 _stream_component_close 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _swr_init，该符号在函数 _audio_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _swr_alloc_set_opts，该符号在函数 _audio_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _swr_convert，该符号在函数 _audio_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _swr_set_compensation，该符号在函数 _audio_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avfilter_link，该符号在函数 _configure_filtergraph 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avfilter_get_class，该符号在函数 _show_help_default 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avfilter_graph_alloc，该符号在函数 _configure_audio_filters 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avfilter_graph_create_filter，该符号在函数 _configure_audio_filters 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avfilter_graph_config，该符号在函数 _configure_filtergraph 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avfilter_graph_free，该符号在函数 _audio_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avfilter_inout_alloc，该符号在函数 _configure_filtergraph 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avfilter_inout_free，该符号在函数 _configure_filtergraph 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _avfilter_graph_parse_ptr，该符号在函数 _configure_filtergraph 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_buffersink_get_frame_flags，该符号在函数 _audio_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_buffersink_get_time_base，该符号在函数 _audio_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_buffersink_get_frame_rate，该符号在函数 _video_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_buffersink_get_channels，该符号在函数 _stream_component_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_buffersink_get_channel_layout，该符号在函数 _stream_component_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_buffersink_get_sample_rate，该符号在函数 _stream_component_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _av_buffersrc_add_frame，该符号在函数 _audio_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_getenv，该符号在函数 _audio_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_setenv，该符号在函数 _main 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_GetError，该符号在函数 _audio_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_CreateMutex，该符号在函数 _frame_queue_init 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_LockMutex，该符号在函数 _frame_queue_next 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_UnlockMutex，该符号在函数 _frame_queue_next 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_DestroyMutex，该符号在函数 _frame_queue_destory 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_CreateCond，该符号在函数 _frame_queue_init 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_DestroyCond，该符号在函数 _frame_queue_destory 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_CondSignal，该符号在函数 _decoder_decode_frame 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_CondWait，该符号在函数 _frame_queue_peek_readable 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_CondWaitTimeout，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_CreateThread，该符号在函数 _decoder_start 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_WaitThread，该符号在函数 _decoder_abort 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_OpenAudioDevice，该符号在函数 _audio_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_PauseAudioDevice，该符号在函数 _stream_component_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_MixAudioFormat，该符号在函数 _sdl_audio_callback 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_CloseAudioDevice，该符号在函数 _stream_component_close 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_GetPixelFormatName，该符号在函数 _realloc_texture 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_SetYUVConversionMode，该符号在函数 _set_sdl_yuv_conversion_mode 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_CreateWindow，该符号在函数 _main 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_SetWindowTitle，该符号在函数 _video_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_SetWindowPosition，该符号在函数 _video_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_SetWindowSize，该符号在函数 _video_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_ShowWindow，该符号在函数 _video_open 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_SetWindowFullscreen，该符号在函数 _toggle_full_screen 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_DestroyWindow，该符号在函数 _do_exit 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_ShowCursor，该符号在函数 _event_loop 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_PumpEvents，该符号在函数 _refresh_loop_wait_event 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_PeepEvents，该符号在函数 _refresh_loop_wait_event 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_PushEvent，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_EventState，该符号在函数 _main 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_SetHint，该符号在函数 _main 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_CreateRenderer，该符号在函数 _main 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_GetRendererInfo，该符号在函数 _main 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_CreateTexture，该符号在函数 _realloc_texture 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_QueryTexture，该符号在函数 _realloc_texture 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_SetTextureBlendMode，该符号在函数 _realloc_texture 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_UpdateTexture，该符号在函数 _upload_texture 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_UpdateYUVTexture，该符号在函数 _upload_texture 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_LockTexture，该符号在函数 _realloc_texture 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_UnlockTexture，该符号在函数 _realloc_texture 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_SetRenderDrawColor，该符号在函数 _video_audio_display 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_RenderClear，该符号在函数 _video_display 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_RenderFillRect，该符号在函数 _fill_rectangle 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_RenderCopy，该符号在函数 _video_audio_display 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_RenderCopyEx，该符号在函数 _video_image_display 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_RenderPresent，该符号在函数 _video_display 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_DestroyTexture，该符号在函数 _event_loop 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_DestroyRenderer，该符号在函数 _do_exit 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_Delay，该符号在函数 _read_thread 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_Init，该符号在函数 _main 中被引用
+ffplay.obj : error LNK2019: 无法解析的外部符号 _SDL_Quit，该符号在函数 _do_exit 中被引用
+C:\work\code\ffplay\lib\avcodec.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\work\code\ffplay\lib\avdevice.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\work\code\ffplay\lib\swresample.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\work\code\ffplay\lib\avfilter.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\work\code\ffplay\lib\avformat.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\work\code\ffplay\lib\avutil.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\work\code\ffplay\lib\postproc.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\work\code\ffplay\lib\swscale.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\work\code\ffplay\lib\avresample.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\work\code\ffplay\lib\SDL2.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\work\code\ffplay\Debug\ffplay.exe : fatal error LNK1120: 250 个无法解析的外部命令
